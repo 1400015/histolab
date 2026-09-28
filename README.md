@@ -70,3 +70,8 @@ histolab/
 ## Créditos
 
 Imagens: Wikimedia Commons (CC BY / CC BY-SA / domínio público — ver `gallery_meta.json` para atribuição por imagem).
+
+## Licença
+
+Código: **MIT** — ver [LICENSE](LICENSE).
+Imagens da galeria (`static/gallery/`): licenças Creative Commons/domínio público do Wikimedia Commons, com atribuição por imagem em [`gallery_meta.json`](gallery_meta.json).
