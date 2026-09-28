@@ -1,0 +1,134 @@
+[
+  {
+    "key": "colon_adenocarcinoma",
+    "title": "Adenocarcinoma do cólon (H&E)",
+    "tissue": "epithelial",
+    "description": "Corte histológico de adenocarcinoma colorretal corado com H&E. Observa-se a arquitetura glandular desorganizada com núcleos hipercromáticos e pleomórficos.",
+    "commons": "Histopathology_of_adenocarcinoma_of_colon_-_Case_01.jpg",
+    "file": "gallery/colon_adenocarcinoma.jpg",
+    "source_title": "Mucinous adenocarcinoma of the colon, HE 1.JPG",
+    "author": "Patho",
+    "license": "CC BY-SA 3.0"
+  },
+  {
+    "key": "stratified_squamous",
+    "title": "Epitélio escamoso estratificado não queratinizado (H&E)",
+    "tissue": "epithelial",
+    "description": "Epitélio pavimentoso estratificado: camadas de células achatadas com núcleos densos na camada basal, justapostas à membrana basal.",
+    "commons": "A_classic_view_of_non-keratinized_stratified_squamous_epithelium.jpg",
+    "file": "gallery/stratified_squamous.jpg",
+    "source_title": "A_classic_view_of_non-keratinized_stratified_squamous_epithelium.jpg",
+    "author": "",
+    "license": ""
+  },
+  {
+    "key": "transitional_epithelium",
+    "title": "Urotélio (bexiga urinária) (H&E)",
+    "tissue": "epithelial",
+    "description": "Epitélio de transição da bexiga com células superficiais em cúpula características e múltiplas camadas de células poliédricas.",
+    "commons": "A_high-magnification_microscope_image_of_the_urinary_bladder_wall,_clearly_showing_the_thick,_multi-layered_transitional_epithelium_with_its_characteristic_dome-shaped_surface_cells,_all_resting_on_top_of_dense_layers_of_smooth_muscle.jpg",
+    "file": "gallery/transitional_epithelium.jpg",
+    "source_title": "Trasversal histologic section of human esophagus.jpg",
+    "author": "Lorenzo Apolloni",
+    "license": "CC BY 4.0"
+  },
+  {
+    "key": "connective_loose",
+    "title": "Tecido conjuntivo frouxo (H&E)",
+    "tissue": "connective",
+    "description": "Conjuntivo frouxo com matriz extracelular abundante, fibroblastos dispersos e células inflamatórias.",
+    "commons": "Loose_connective_tissue_(H&E).jpg",
+    "file": "gallery/connective_loose.jpg",
+    "source_title": "Granulation tissue in an infected wound, HE 1.JPG",
+    "author": "",
+    "license": ""
+  },
+  {
+    "key": "dense_connective",
+    "title": "Tecido conjuntivo denso colagénico (H&E)",
+    "tissue": "connective",
+    "description": "Feixes densos e ondulados de fibras colagénicas coradas por eosina, com fibroblastos dispersos entre os feixes.",
+    "commons": "Dense_regular_connective_tissue_-_tendon.jpg",
+    "file": "gallery/dense_connective.jpg",
+    "source_title": "Dense_regular_connective_tissue_-_tendon.jpg",
+    "author": "",
+    "license": ""
+  },
+  {
+    "key": "smooth_muscle",
+    "title": "Músculo liso (H&E)",
+    "tissue": "muscular",
+    "description": "Células musculares lisas fusiformes com núcleos centrais alongados, dispostas em feixes com direções cruzadas.",
+    "commons": "Smooth_muscle_(H&E).jpg",
+    "file": "gallery/smooth_muscle.jpg",
+    "source_title": "Smooth muscle 400x.jpg",
+    "author": "",
+    "license": ""
+  },
+  {
+    "key": "skeletal_muscle",
+    "title": "Músculo esquelético (H&E)",
+    "tissue": "muscular",
+    "description": "Fibras musculares esqueléticas cilíndricas com estrias transversais e núcleos periféricos múltiplos.",
+    "commons": "Skeletal_muscle_(H&E).jpg",
+    "file": "gallery/skeletal_muscle.jpg",
+    "source_title": "Skeletal_muscle_(H&E).jpg",
+    "author": "",
+    "license": ""
+  },
+  {
+    "key": "cardiac_muscle",
+    "title": "Músculo cardíaco (H&E)",
+    "tissue": "muscular",
+    "description": "Cardiomiócitos ramificados com núcleos centrais e discos intercalares; estrias transversais evidentes.",
+    "commons": "Cardiac_muscle_(H&E).jpg",
+    "file": "gallery/cardiac_muscle.jpg",
+    "source_title": "Cardiac_muscle_(H&E).jpg",
+    "author": "",
+    "license": ""
+  },
+  {
+    "key": "nervous_ganglion",
+    "title": "Gânglio nervoso (H&E)",
+    "tissue": "nervous",
+    "description": "Corpos celulares de neurónios com núcleos grandes e vesiculares rodeados por células satélite; neuropilo claro adjacente.",
+    "commons": "Ganglion_(H&E).jpg",
+    "file": "gallery/nervous_ganglion.jpg",
+    "source_title": "Nervous Tissue Nerve Bundle (40110795540).jpg",
+    "author": "",
+    "license": ""
+  },
+  {
+    "key": "nervous_cortex",
+    "title": "Córtex cerebral (H&E)",
+    "tissue": "nervous",
+    "description": "Corteza cerebral com camadas de neurónios e gliócitos; células piramidais e neuropilo claro.",
+    "commons": "Cerebral_cortex_(H&E).jpg",
+    "file": "gallery/nervous_cortex.jpg",
+    "source_title": "Cerebral_cortex_(H&E).jpg",
+    "author": "",
+    "license": ""
+  },
+  {
+    "key": "adipose_tissue",
+    "title": "Tecido adiposo (H&E)",
+    "tissue": "adipose",
+    "description": "Adipócitos uniloculares com grandes vacúolos lipídicos claros e núcleos periféricos achatados; septos conjuntivos finos.",
+    "commons": "Adipose_tissue_(H&E).jpg",
+    "file": "gallery/adipose_tissue.jpg",
+    "source_title": "Endometrium and adipose tissue -- high mag.jpg",
+    "author": "",
+    "license": ""
+  },
+  {
+    "key": "liver",
+    "title": "Fígado — parênquima hepático (H&E)",
+    "tissue": "liver",
+    "description": "Hepatócitos em cordas de 1–2 células com sinusoides entre elas; núcleos grandes e monótonos; tríada portal visível.",
+    "commons": "Liver_(H&E).jpg",
+    "file": "gallery/liver.jpg",
+    "source_title": "Breast cancer metastasis to liver (1).jpg",
+    "author": "",
+    "license": ""
+  }
+]
